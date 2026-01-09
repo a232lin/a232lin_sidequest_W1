@@ -1,4 +1,4 @@
-## Side Qyest Week 1
+## Side Quest Week 1
 
 Give your project a short, clear title (e.g., "Side Quest Week 1: Interactive Shape Switcher").
 
